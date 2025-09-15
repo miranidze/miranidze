@@ -38,32 +38,32 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 
 ## Technical Skills
 
-<p align="center"><strong>Programming Languages</strong></p>
+<p align="left"><strong>Programming Languages :</strong></p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Python-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/R-211e1b?style=for-the-badge&logo=r&logoColor=EB5454"/>
 </p>
 
-<p align="center"><strong>Data Analysis & Visualization</strong></p>
+<p align="left"><strong>Data Analysis & Visualization :</strong></p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/NumPy-211e1b?style=for-the-badge&logo=numpy&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/Matplotlib-211e1b?style=for-the-badge&logo=matplotlib&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/Seaborn-211e1b?style=for-the-badge&logo=seaborn&logoColor=EB5454"/>
 </p>
 
-<p align="center"><strong>Statistical Software</strong></p>
+<p align="left"><strong>Statistical Software :</strong></p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/STATA-211e1b?style=for-the-badge&logo=stata&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/EViews-211e1b?style=for-the-badge&logo=eviews&logoColor=EB5454"/>
 </p>
 
-<p align="center"><strong>Project Management & Collaboration</strong></p>
+<p align="left"><strong>Project Management & Collaboration :</strong></p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/GitHub-211e1b?style=for-the-badge&logo=github&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/Jira-211e1b?style=for-the-badge&logo=jira&logoColor=EB5454"/>
 </p>
@@ -81,7 +81,7 @@ For more details on ongoing and past projects, please visit the [IAMO Projects P
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/miranda-svanidze/">
         <img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=linkedin&logoColor=EB5454"/>
     </a>
