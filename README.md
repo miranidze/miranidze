@@ -4,7 +4,7 @@
     </p>
 
 <p align="center">
-    <i>Advancing agricultural policy and trade dynamics in transition economies.</i>
+    <i>Advancing agricultural policy and trade dynamics in transition economies. ( page is in deploying... )</i>
 </p>
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
