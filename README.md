@@ -1,7 +1,7 @@
 # <p align="center">Dr. Miranda Svanidze</p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Research_Areas-Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Price%20Transmission-211e1b?style=for-the-badge&logoColor=EB5454" alt="Research Areas"/>
-</p>
+    <img src="https://img.shields.io/badge/Research_Areas :-Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Price%20Transmission-ffffff?style=for-the-badge&logoColor=dbcea5" alt="Research Areas"/>
+    </p>
 
 <p align="center">
     <i>Advancing agricultural policy and trade dynamics in transition economies.</i>
@@ -20,7 +20,7 @@ class MirandaSvanidze:
     research: list[str] = ["Market Integration", "Price Transmission", "Agricultural Trade Policy"]
     skills: list[str] = ["Econometric Modeling", "Policy Analysis", "Data Interpretation"]
     welcome: list[str] = ["Research Collaboration", "Policy Discussions", "Academic Networking"]
-    motto: str = "Bridging policy and practice in agricultural markets"
+    motto: str = " "
 ```
 I am a researcher at the Leibniz Institute of Agricultural Development in Transition Economies (IAMO), focusing on agricultural trade and policy interventions in the Commonwealth of Independent States (CIS). My work examines market integration, price transmission mechanisms, and the implications of trade policies on agricultural markets.
 
