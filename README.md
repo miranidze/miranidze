@@ -25,7 +25,7 @@ class MirandaSvanidze:
 I am a researcher at the Leibniz Institute of Agricultural Development in Transition Economies (IAMO), focusing on agricultural trade and policy interventions in the Commonwealth of Independent States (CIS). My work examines market integration, price transmission mechanisms, and the implications of trade policies on agricultural markets.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miranda-svanidze/" target="_blank">
+  <a href="https://www.linkedin.com/in/miranda-svanidze-3ab49978/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-211e1b?style=for-the-badge&logo=linkedin&logoColor=EB5454" alt="LinkedIn"/>
   </a>
 </p>
