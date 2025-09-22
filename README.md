@@ -31,7 +31,7 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 </p>
 <p align="center">
   <a href="https://orcid.org/0000-0002-7803-9488" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-211e1b?style=for-the-badge&logo=orcid&logoColor=EB5454" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-Research IDs-211e1b?style=for-the-badge&logo=orcid&logoColor=EB5454" alt="ORCID"/>
   </a>
 </p>
 
