@@ -36,3 +36,37 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 </p>
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
+
+## Technical Skills
+
+<p align="left"><strong>Programming Languages :</strong></p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/R-211e1b?style=for-the-badge&logo=r&logoColor=EB5454"/>
+</p>
+
+<p align="left"><strong>Data Analysis & Visualization :</strong></p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/NumPy-211e1b?style=for-the-badge&logo=numpy&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Matplotlib-211e1b?style=for-the-badge&logo=matplotlib&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Seaborn-211e1b?style=for-the-badge&logo=seaborn&logoColor=EB5454"/>
+</p>
+
+<p align="left"><strong>Statistical Software :</strong></p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/STATA-211e1b?style=for-the-badge&logo=stata&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/EViews-211e1b?style=for-the-badge&logo=eviews&logoColor=EB5454"/>
+</p>
+
+<p align="left"><strong>Project Management & Collaboration :</strong></p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/GitHub-211e1b?style=for-the-badge&logo=github&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/ORCID-211e1b?style=for-the-badge&logo=orcid&logoColor=EB5454"/>
+</p>
+
+<hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
