@@ -30,6 +30,12 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
   </a>
 </p>
 <p align="center">
+  <a href="https://orcid.org/0000-0002-7803-9488" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-211e1b?style=for-the-badge&logo=orcid&logoColor=EB5454" alt="ORCID"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/citations?user=hMJVAxsAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-Profile-211e1b?style=for-the-badge&logo=google-scholar&logoColor=EB5454" alt="Google Scholar"/>
   </a>
@@ -44,6 +50,7 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 <p align="left">
     <img src="https://img.shields.io/badge/Python-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/R-211e1b?style=for-the-badge&logo=r&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/MATLAB-211e1b?style=for-the-badge&logo=matlab&logoColor=EB5454"/>
 </p>
 
 <p align="left"><strong>Data Analysis & Visualization :</strong></p>
@@ -53,6 +60,8 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
     <img src="https://img.shields.io/badge/NumPy-211e1b?style=for-the-badge&logo=numpy&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/Matplotlib-211e1b?style=for-the-badge&logo=matplotlib&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/Seaborn-211e1b?style=for-the-badge&logo=seaborn&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Tableau-211e1b?style=for-the-badge&logo=tableau&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/PowerBI-211e1b?style=for-the-badge&logo=powerbi&logoColor=EB5454"/>
 </p>
 
 <p align="left"><strong>Statistical Software :</strong></p>
@@ -60,13 +69,16 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 <p align="left">
     <img src="https://img.shields.io/badge/STATA-211e1b?style=for-the-badge&logo=stata&logoColor=EB5454"/>
     <img src="https://img.shields.io/badge/EViews-211e1b?style=for-the-badge&logo=eviews&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/SPSS-211e1b?style=for-the-badge&logo=ibm&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/SAS-211e1b?style=for-the-badge&logo=sas&logoColor=EB5454"/>
 </p>
 
 <p align="left"><strong>Project Management & Collaboration :</strong></p>
 
 <p align="left">
     <img src="https://img.shields.io/badge/GitHub-211e1b?style=for-the-badge&logo=github&logoColor=EB5454"/>
-    <img src="https://img.shields.io/badge/ORCID-211e1b?style=for-the-badge&logo=orcid&logoColor=EB5454"/>
+     <img src="https://img.shields.io/badge/Teams-211e1b?style=for-the-badge&logo=teams&logoColor=EB5454"/>
+      <img src="https://img.shields.io/badge/Slack-211e1b?style=for-the-badge&logo=slack&logoColor=EB5454"/>
 </p>
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
