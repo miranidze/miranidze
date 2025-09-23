@@ -1,4 +1,4 @@
-# <p align="center">Dr. Miranda Svanidze</p>
+# <p align="center"> Miranda Svanidze</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Research_Areas :-Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Price%20Transmission-ffffff?style=for-the-badge&logoColor=dbcea5" alt="Research Areas"/>
     </p>
@@ -85,4 +85,4 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 
 ## Research Projects
 
-<img src="https://raw.githubusercontent.com/miranidz/miranidz/main/design/poster1.png" width=30%>
+<img src="https://raw.githubusercontent.com/miranidz/miranidz/main/design/poster11.png" width=30%>
