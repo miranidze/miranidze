@@ -82,3 +82,7 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 </p>
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
+
+## Research Projects
+
+<img src="https://raw.githubusercontent.com/miranidz/miranidz/main/design/poster1.png" width=40%>
