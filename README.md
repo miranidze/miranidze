@@ -86,3 +86,4 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 ## Research Projects
 
 <img src="https://raw.githubusercontent.com/miranidz/miranidz/main/design/poster11.png" width=30%>
+<img src="https://raw.githubusercontent.com/miranidz/miranidz/main/design/poster2.png" width=30%>
