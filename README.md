@@ -93,7 +93,9 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 
 >Yugay, S., Götz, L., **Svanidze, M.** et al. The effects of weather extremes on wheat prices in Russia: The role of inputs and Russia’s war in Ukraine. Food Sec. (2025).<br>https://doi.org/10.1007/s12571-025-01550-8
 
-> Yugay, Stanislav; Götz, Linde; Svanidze, Miranda (2024) Impact of the Ruble exchange rate regime and Russia's war in Ukraine on wheat prices in Russia. Agricultural Economics 55 (2): 384-411.<br>https://doi.org/10.1111/agec.12822
+> Yugay, Stanislav; Götz, Linde; **Svanidze, Miranda** (2024) Impact of the Ruble exchange rate regime and Russia's war in Ukraine on wheat prices in Russia. Agricultural Economics 55 (2): 384-411.<br>https://doi.org/10.1111/agec.12822
 
->Glauben, Thomas; Svanidze, Miranda (2023) Globaler Agrarhandel: robustes Sicherheitsnetz zur Reduktion von Hungerrisiken in Krisenzeiten. Wirtschaftsdienst 103 (7): 491–499.<br>
+>Glauben, Thomas; **Svanidze, Miranda** (2023) Globaler Agrarhandel: robustes Sicherheitsnetz zur Reduktion von Hungerrisiken in Krisenzeiten. Wirtschaftsdienst 103 (7): 491–499.<br>
 https://doi.org/10.2478/wd-2023-0139
+
+>
