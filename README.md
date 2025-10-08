@@ -83,6 +83,17 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
 
-## Research Projects
+## Lead Papers
 
 <a href="https://github.com/miranidze/norwegian_salmon_value_chains"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/post1.png" width=30%></a>  <a href="https://github.com/miranidze/russia-wheat-ban-market-integration"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/post22.png" width=30%></a> <a href="https://github.com/miranidze/eu-blacksea-wheat"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/poster3.png" width=30%></a><a href="https://github.com/miranidze/wheat-market-eurasia"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/poster4.png" width=30%></a>
+
+## Contribution Papers
+
+>Jamali Jaghdani, T., Glauben, T., Götz, L., **Svanidze, M** and Prehn, S. (2025) The stability of the global wheat trade in the post-Soviet space: A trade duration approach. German Journal of Agricultural Economics 73 (3).<br>https://doi.org/10.52825/gjae.v73i3.1353
+
+>Yugay, S., Götz, L., **Svanidze, M.** et al. The effects of weather extremes on wheat prices in Russia: The role of inputs and Russia’s war in Ukraine. Food Sec. (2025).<br>https://doi.org/10.1007/s12571-025-01550-8
+
+> Yugay, Stanislav; Götz, Linde; Svanidze, Miranda (2024) Impact of the Ruble exchange rate regime and Russia's war in Ukraine on wheat prices in Russia. Agricultural Economics 55 (2): 384-411.<br>https://doi.org/10.1111/agec.12822
+
+>Glauben, Thomas; Svanidze, Miranda (2023) Globaler Agrarhandel: robustes Sicherheitsnetz zur Reduktion von Hungerrisiken in Krisenzeiten. Wirtschaftsdienst 103 (7): 491–499.<br>
+https://doi.org/10.2478/wd-2023-0139
