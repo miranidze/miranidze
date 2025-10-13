@@ -83,11 +83,11 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
 
-## Lead Papers
+## Lead Author
 
 <a href="https://github.com/miranidze/norwegian_salmon_value_chains"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/post1.png" width=30%></a>  <a href="https://github.com/miranidze/russia-wheat-ban-market-integration"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/post22.png" width=30%></a> <a href="https://github.com/miranidze/eu-blacksea-wheat"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/poster3.png" width=30%></a><a href="https://github.com/miranidze/wheat-market-eurasia"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/poster4.png" width=30%></a> <a href="https://github.com/miranidze/grain-market-efficiency-russia"><img src="https://raw.githubusercontent.com/miranidze/miranidze/main/design/poster5.png" width=30%></a>
 
-## Contribution Papers
+## Co-Author
 
 >Jamali Jaghdani, T., Glauben, T., Götz, L., **Svanidze, M** and Prehn, S. (2025) The stability of the global wheat trade in the post-Soviet space: A trade duration approach. German Journal of Agricultural Economics 73 (3).<br>https://doi.org/10.52825/gjae.v73i3.1353
 
