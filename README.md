@@ -98,4 +98,12 @@ I am a researcher at the Leibniz Institute of Agricultural Development in Transi
 >Glauben, Thomas; **Svanidze, Miranda** (2023) Globaler Agrarhandel: robustes Sicherheitsnetz zur Reduktion von Hungerrisiken in Krisenzeiten. Wirtschaftsdienst 103 (7): 491–499.<br>
 https://doi.org/10.2478/wd-2023-0139
 
->
+>Götz, L. & **Svanidze, M.** (2023). Getreidehandel und Exportbeschränkungen während des Ukrainekrieges. Wirtschaftsdienst, 103(13), 2023. 37-41.<br>
+https://doi.org/10.2478/wd-2023-0065
+
+>Glauben, T., **Svanidze, M.**, Götz, L. et al. The War in Ukraine, Agricultural Trade and Risks to Global Food Security. Intereconomics 57, 157–163 (2022).<br>
+https://doi.org/10.1007/s10272-022-1052-7
+
+>Götz, L., **Svanidze, M.**, Tissier, A., & Brand Duran, A. (2022). Consumers’ Willingness to Buy CRISPR Gene-Edited Tomatoes: Evidence from a Choice Experiment Case Study in Germany. Sustainability, 14(2), 971.<br>
+https://doi.org/10.3390/su14020971
+
