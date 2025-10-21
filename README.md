@@ -107,3 +107,7 @@ https://doi.org/10.1007/s10272-022-1052-7
 >Götz, L., **Svanidze, M.**, Tissier, A., & Brand Duran, A. (2022). Consumers’ Willingness to Buy CRISPR Gene-Edited Tomatoes: Evidence from a Choice Experiment Case Study in Germany. Sustainability, 14(2), 971.<br>
 https://doi.org/10.3390/su14020971
 
+>Heigermoser M, Götz L, **Svanidze M.** Price formation within Egypt's wheat tender market: Implications for Black Sea exporters. Agricultural Economics 2021; 52: 819–831.<br>https://doi.org/10.1111/agec.12656
+
+>Tleubayev A., Jaghdani T. J., Götz L., **Svanidze M.** (2021). The relationship between trade policies and macroeconomic adjustments in the Russian cheese market integration. Journal of New Economy, vol. 22, no. 3, pp. 44–68.<br>
+https://doi.org/10.29141/2658-5081-2021-22-3-3
