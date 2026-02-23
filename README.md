@@ -1,15 +1,12 @@
-# <p align="center"> Miranda Svanidze</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Research_Areas :-Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Price%20Transmission-ffffff?style=for-the-badge&logoColor=dbcea5" alt="Research Areas"/>
-    </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f9f9f,100:000000&height=300&section=header&text=Miranda%20Svanidze&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Price%20Transmission&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 <p align="center">
-    <i>Advancing agricultural policy and trade dynamics in transition economies.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Rust+%26+Python;Distributed+Systems;RAG+%26+LLM+Systems;Fast,+Safe+Backends" alt="Typing SVG" />
 </p>
 
-<hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
-
-## About Me
+<h2 style="margin-top: -40px;">About Me</h2>
 
 ```python
 from dataclasses import dataclass
