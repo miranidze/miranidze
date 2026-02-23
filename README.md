@@ -108,3 +108,7 @@ https://doi.org/10.3390/su14020971
 
 >Tleubayev A., Jaghdani T. J., Götz L., **Svanidze M.** (2021). The relationship between trade policies and macroeconomic adjustments in the Russian cheese market integration. Journal of New Economy, vol. 22, no. 3, pp. 44–68.<br>
 https://doi.org/10.29141/2658-5081-2021-22-3-3
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:9f9f9f,100:000000&height=100&section=footer" width="100%"/>
+</div>
