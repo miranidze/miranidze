@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f9f9f,100:000000&height=300&section=header&text=Miranda%20Svanidze&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Price%20Transmission&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f9f9f,100:000000&height=300&section=header&text=Miranda%20Svanidze&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Agricultural%20Trade%20Policy%20%7C%20Market%20Integration%20%7C%20Consumer%20Behavior&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Rust+%26+Python;Distributed+Systems;RAG+%26+LLM+Systems;Fast,+Safe+Backends" alt="Typing SVG" />
+<p>
 </p>
 
 <h2 style="margin-top: -40px;">About Me</h2>
@@ -14,7 +13,7 @@ from dataclasses import dataclass
 @dataclass
 class MirandaSvanidze:
     specialization: str = "Agricultural Economics"
-    research: list[str] = ["Market Integration", "Price Transmission", "Agricultural Trade Policy"]
+    research: list[str] = ["Market Integration", "Price Transmission", "Consumer Behaviour"]
     skills: list[str] = ["Econometric Modeling", "Policy Analysis", "Data Interpretation"]
     welcome: list[str] = ["Research Collaboration", "Policy Discussions", "Academic Networking"]
    
